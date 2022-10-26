@@ -1,6 +1,7 @@
 export default{
   translation:{
-    "select_language": "Select Language",
+    "multi_language":"Multi Language",
+    "current_language":"Current language is",
     "change_language": "Change Language"
   }
 }

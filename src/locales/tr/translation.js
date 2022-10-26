@@ -1,6 +1,7 @@
 export default{
   translation:{
-    "select_language": "Dil Seç",
-    "change_language": "Dil Degis"
+    "multi_language":"Çoklu Dil",
+    "current_language":"Şu anki dil",
+    "change_language": "Dil Değiş"
   }
 }
