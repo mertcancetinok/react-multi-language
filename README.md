@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Multi Language
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Live Demo Here](https://react-multi-language-mertcancetinok.netlify.app)
 
 ## Available Scripts
 
